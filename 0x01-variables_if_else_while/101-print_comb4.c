@@ -49,6 +49,6 @@ int main(void)
 		}
 		e++;
 	}
-	putchar('\n');
+	putchar('');
 	return (0);
 }
