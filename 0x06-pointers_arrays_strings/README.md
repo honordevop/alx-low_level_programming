@@ -1,5 +1,3 @@
-# Hey there, I am gtfrans2re. 
-
 : This is the official git repo of the 0x06. C - More pointers, arrays and strings project
 
 : Feel free to fork it and use it as you wish
