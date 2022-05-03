@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * 
+ * Ogunlade Stephen O.
  */
 
 #include <elf.h>
