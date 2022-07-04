@@ -97,3 +97,16 @@ Function Prototypes:
     * Prints each `key`/`value` pair in the order they appear in the array of the hash table.
     * Does not print anything if the hash table is `NULL`.
 
+* **6. >>> del ht**
+  * [6-hash_table_delete.c](./6-hasb_table_delete.c): C function that deletes a
+  `hash_table_t` hash table.
+
+* **7. $ht['Betty'] = 'Holberton'**
+  * [100-sorted_hash_table.c](./100-sorted_hash_table.c): C functions that define a sorted
+  hash table `shash_table_t`.
+    * Identical in function to a `hash_table_t` hash table except key/value
+    pairs are inserted in alphabetical order according to the ASCII value of the key.
+    * Key/value pairs are printed in the order they are sorted.
+    * Includes a function `shash_table_print_rev()` that prints the hash table
+    in reverse order.
+
