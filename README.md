@@ -14,3 +14,5 @@ working in the C language. The specific list of projects contained follows:
 * [0x05. C - More pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - Even more pointers, arrays and strings](./0x06-pointers_arrays_strings)
 * [0x07. C - Recursion](./0x07-recursion)
+* [0x08. C - Static libraries](./0x08-static_libraries)
+* [0x09. C - argc, argv](./0x09-argc_argv)
